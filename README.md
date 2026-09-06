@@ -97,4 +97,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
