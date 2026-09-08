@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -73,6 +75,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
