@@ -111,3 +111,14 @@
 | ------- |
 | [0155-min-stack](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
+## Progress
+
+I am currently practicing DSA and solving LeetCode problems
+to improve my problem-solving and coding skills.
+
+### Topics Practiced
+- Arrays
+- Hash Tables
+- Strings
+- Two Pointers
+- Stack
