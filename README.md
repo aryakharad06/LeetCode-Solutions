@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0724-find-pivot-index](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
