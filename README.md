@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
@@ -36,6 +37,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -148,6 +151,10 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
 ## Progress
 
