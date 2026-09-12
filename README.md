@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
@@ -38,6 +39,7 @@
 | [0383-ransom-note](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Divide and Conquer
