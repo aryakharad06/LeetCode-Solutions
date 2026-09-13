@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0015-3sum](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -161,6 +164,14 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
 ## Progress
 
