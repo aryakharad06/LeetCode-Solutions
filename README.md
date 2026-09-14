@@ -22,6 +22,7 @@
 | [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
@@ -133,6 +134,7 @@
 | [0020-valid-parentheses](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Quicksort
 |  |
 | ------- |
