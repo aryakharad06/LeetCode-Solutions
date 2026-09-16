@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -185,6 +186,14 @@
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
 ## Progress
 
