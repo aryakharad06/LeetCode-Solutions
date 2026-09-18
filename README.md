@@ -60,6 +60,7 @@
 | [0290-word-pattern](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
@@ -174,6 +176,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -200,6 +203,10 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
 ## Progress
 
