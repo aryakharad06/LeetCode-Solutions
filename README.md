@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -176,6 +179,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -193,6 +197,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Matrix
 |  |
