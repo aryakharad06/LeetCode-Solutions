@@ -76,6 +76,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
@@ -147,6 +148,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -160,6 +162,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
