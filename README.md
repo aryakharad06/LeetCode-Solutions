@@ -54,6 +54,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0383-ransom-note](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0076-minimum-window-substring](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Trie
 |  |
