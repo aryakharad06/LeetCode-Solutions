@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -151,6 +152,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -238,6 +240,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Matrix
