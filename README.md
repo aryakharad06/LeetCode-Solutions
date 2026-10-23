@@ -203,12 +203,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -268,6 +270,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
 ## Progress
