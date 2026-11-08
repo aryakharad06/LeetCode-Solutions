@@ -43,6 +43,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1901-find-a-peak-element-ii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
@@ -152,6 +153,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1901-find-a-peak-element-ii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | [0054-spiral-matrix](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [1901-find-a-peak-element-ii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
 |  |
 | ------- |
