@@ -35,6 +35,7 @@
 | [0503-next-greater-element-ii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -155,6 +156,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
