@@ -39,6 +39,7 @@
 | [0724-find-pivot-index](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -157,6 +158,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
