@@ -156,6 +156,7 @@
 | [0162-find-peak-element](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -299,6 +300,10 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aryakharad06/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
 ## Progress
 
